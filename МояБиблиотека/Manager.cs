@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace МояБиблиотека
 {
-    class Manager
+    public class Manager
     {
         private List<Project> projects = new List<Project>();
 

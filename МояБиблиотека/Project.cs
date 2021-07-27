@@ -2,7 +2,7 @@
 
 namespace МояБиблиотека
 {
-    class Project : Common
+    public class Project : Common
     {       
         private List<Task> tasks;
 

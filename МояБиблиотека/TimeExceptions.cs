@@ -11,7 +11,7 @@ namespace МояБиблиотека
         ShortName,
         LongName
     }
-    class TimeExceptions : Exception
+    public class TimeExceptions : Exception
     {
         private Code code;
 
